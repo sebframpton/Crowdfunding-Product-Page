@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/sebframpton/Crowdfunding-Product-Page)
-- Live Site URL: [Live site URL here](https://sebframpton.github.io/Crowdfunding-Product-Page/)
+- Solution URL: [https://github.com/sebframpton/Crowdfunding-Product-Page](https://github.com/sebframpton/Crowdfunding-Product-Page)
+- Live Site URL: [https://sebframpton.github.io/Crowdfunding-Product-Page/](https://sebframpton.github.io/Crowdfunding-Product-Page/)
 
 
 
@@ -52,8 +52,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://sebframpton.github.io/)
-- Frontend Mentor - [@yourusername](
+- Website - [Sebframpton](https://sebframpton.github.io/)
+- Frontend Mentor - [@sebframpton](
 https://www.frontendmentor.io/profile/sebframpton)
 
 
