@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://sebframpton.github.io/Crowdfunding-Product-Page/)
-- Live Site URL: [Live site URL here](https://github.com/sebframpton/Crowdfunding-Product-Page)
+- Solution URL: [Solution URL here](https://github.com/sebframpton/Crowdfunding-Product-Page)
+- Live Site URL: [Live site URL here](https://sebframpton.github.io/Crowdfunding-Product-Page/)
 
 
 
